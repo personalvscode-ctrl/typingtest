@@ -413,7 +413,7 @@ export default function TypingTest() {
                 style={{
                   fontFamily: "'Inter', 'Segoe UI', Arial, sans-serif",
                   letterSpacing: "normal",
-                  wordSpacing: "0.15em",
+                  wordSpacing: "0.05em",
                   overflowX: "hidden",
                   width: "100%",
                 }}
